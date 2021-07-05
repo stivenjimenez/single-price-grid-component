@@ -1,6 +1,6 @@
 # single price grid component   ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow)
 
-⚡️  ES un proyecto que realice para reforzar mis conocimientos en  HTML, CSS y media queries
+⚡️  Es un proyecto que realice para reforzar mis conocimientos en  HTML, CSS y media queries
 
 ✨ Este proyecto es un challenge  de [Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 
